@@ -27,6 +27,13 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 
 <h2>Técnicas e Tecnologias Utilizadas</h2>
 
+<img src="https://github.com/sergioimai/conversor-de-moedas/blob/main/assets/java.png"/>
+
+<img src="https://github.com/sergioimai/conversor-de-moedas/blob/main/assets/trello.png"/>
+
+<img src="https://github.com/sergioimai/conversor-de-moedas/blob/main/assets/eclipse.png"/>
+
+
 
       
  <a href="https://github.com/sergioimai/conversor-de-moedas/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sergioimai/conversor-de-moedas?style=for-the-badge"></a>
