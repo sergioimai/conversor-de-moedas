@@ -22,12 +22,15 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
        - Converter de Peso Chileno a Reais
 </p>
 
-https://user-images.githubusercontent.com/104179443/190504444-dff3129c-5954-4461-9574-0bf52eee30a0.mp4
+![gif de demonstracao do projeto](https://github.com/sergioimai/conversor-de-moedas/blob/main/assets/conversor-de-moedas-e-distancia.gif)
 
 
 <h2>Técnicas e Tecnologias Utilizadas</h2>
 
 
-      - JAVA java:
-      - TRELLO
-      - ECLIPSE
+      
+ <a href="https://github.com/sergioimai/conversor-de-moedas/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/sergioimai/conversor-de-moedas?style=for-the-badge"></a>
+ 
+ <a href="https://github.com/sergioimai/conversor-de-moedas/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/sergioimai/conversor-de-moedas?style=for-the-badge"></a>
+ 
+ :blush:
